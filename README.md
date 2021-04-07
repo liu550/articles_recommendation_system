@@ -9,7 +9,7 @@ The recommendation system based on BERT and neural network. Its structure is the
 
 # Model 1 - BERT encoding
 
-Input layer                   Random setences of articles
+'''Input layer'''                   Random setences of articles
 
 Preprocessing layer           BERT preprocessing layer
 
